@@ -1,0 +1,1 @@
+contains the scripts for scraping data from youtube - mainly for metadata + council transcripts

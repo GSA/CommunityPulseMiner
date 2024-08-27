@@ -1,0 +1,10 @@
+jsonlines
+bs4
+textblob
+spacy
+pandas
+unicodedata
+isodate
+youtube-transcript-api
+deepmultilingualpunctuation
+
